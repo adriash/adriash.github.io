@@ -1,0 +1,42 @@
+banner:
+  title: Hola, soy Adrián
+
+social:
+  twitter: "https://twitter.com/Josejusejo"
+  linkedin: sam-robbins-gb
+  github: adriash
+  facebook: "https://www.facebook.com/profile.php?id=100086977454131"
+  instagram: "https://www.instagram.com/ytjoseju/?hl=es"
+  gmail: "adriansazna@gmail.com"
+
+about:
+  enable: true
+  content: segundo año de Desarrollo Web en el instituto Cpifp Los Enlaces 
+  button:
+    btnText: Más sobre mí
+    URL: "/about"
+
+skill:
+  enable: true
+  item:
+    - title: Mis conocimientos en lenguajes
+      logo: https://res.cloudinary.com/samrobbins/image/upload/v1591793272/logos/logos_javascript_adj1dx.svg
+      description: -Un año aprendiendo sobre la programación orientada a objetos<br>-Nociones básicas sobre SQL<br>-Nivel intermedio en HTML5 y CSS3<br>-Nivel principiante en JavaScript orientado al desarrollo web
+      
+portfolio:
+  enable: true
+  item:
+    - title: acme-corporation
+      image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFJ-yHB5owPut9h74ZR5vLMT1Nu7OyMqRyOA&usqp=CAU
+      description: Un blog hecho con Hugo dedicado a practicar el desarrollo web con sitios estaticos
+      link: "https://github.com/adriash/acme"
+   
+education:
+  enable: true
+  item:
+    - title: Desarrollo web
+      year: 2021 - Presente
+      academy: Cpifp Los Enlaces
+      image: https://pbs.twimg.com/profile_images/937621074526732289/8gy1EiAH_400x400.jpg
+      
+ 
